@@ -4,7 +4,8 @@
 ### 🌱 I’m currently learning `Blockchain smart contracts and Cosmos SDK`
 ### 🔭 I’m currently looking for an internship related to blockchain development
 ### 📫 How to reach me: `bkagangencdogan99@hotmail.com`
-### My PGP Key: https://openpgp.circl.lu/pks/lookup?search=kaan.gencdogan%40ug.bilkent.edu.tr&fingerprint=on&op=index
+### My PGP Key:
+### https://openpgp.circl.lu/pks/lookup?op=get&search=0x2cc28c8cb7a243102031eef876f3383d438a58ae
 <!--
 **BilgeKaanGencdogan/BilgeKaanGencdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
